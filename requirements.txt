@@ -21,4 +21,8 @@ lxml>=4.9.3
 lxml_html_clean>=0.1.1
 newsapi-python==0.2.7
 sentencepiece==0.2.0
-protobuf==3.20.3 
+protobuf==3.20.3
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
