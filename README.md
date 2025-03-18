@@ -228,9 +228,5 @@ news_tts_app/
 
 ---
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Video Demo
 [Link to video demo explaining how the application works]
