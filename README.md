@@ -38,8 +38,8 @@ This is a web-based application that extracts key details from multiple news art
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-tts-app.git
-   cd news-tts-app
+   git clone https://github.com/pswitchy/News-TTS-App.git
+   cd News-TTS-App
    ```
 
 2. Create a virtual environment:
@@ -227,28 +227,6 @@ news_tts_app/
    - Exportable reports in JSON or CSV format.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Follow these steps:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
----
-
-## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
