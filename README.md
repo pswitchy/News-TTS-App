@@ -191,6 +191,7 @@ news_tts_app/
 
 ### Access the Application
 - Visit the Hugging Face Space URL to use the application.
+   https://huggingface.co/spaces/doctorpepsicola/News-Tts-App
 
 ---
 
