@@ -142,7 +142,6 @@ news_tts_app/
 │   └── comparative_analyzer.py # Comparative analysis
 ├── utils.py                # Utility functions
 ├── requirements.txt        # Dependencies
-├── .env                    # Environment variables
 ├── README.md               # Project documentation
 └── output/                 # Generated audio files
 ```
