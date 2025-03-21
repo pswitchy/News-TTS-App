@@ -229,4 +229,4 @@ news_tts_app/
 ---
 
 ## Video Demo
-[Link to video demo explaining how the application works]
+(https://www.loom.com/share/d2dea0b7f227417ea405eacd3918757e?sid=aaf19a39-af71-4f02-be46-1f90ed311ce0)
